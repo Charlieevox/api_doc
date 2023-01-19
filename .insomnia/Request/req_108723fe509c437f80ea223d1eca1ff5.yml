@@ -1,10 +1,10 @@
 _id: req_108723fe509c437f80ea223d1eca1ff5
 type: Request
 parentId: wrk_e9dcca5223a44249b732f5f14b54b571
-modified: 1674109617392
+modified: 1674109996376
 created: 1674109601371
 url: https://www.google.com
-name: New Request
+name: Test
 description: ""
 method: GET
 body: {}
