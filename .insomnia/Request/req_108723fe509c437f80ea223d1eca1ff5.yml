@@ -1,0 +1,21 @@
+_id: req_108723fe509c437f80ea223d1eca1ff5
+type: Request
+parentId: wrk_e9dcca5223a44249b732f5f14b54b571
+modified: 1674109617392
+created: 1674109601371
+url: https://www.google.com
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1674109601371
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
